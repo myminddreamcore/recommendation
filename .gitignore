@@ -1,3 +1,4 @@
+HEAD
 # Logs
 logs
 *.log
@@ -39,3 +40,23 @@ __screenshots__/
 *.timestamp-*-*.mjs
 bin/
 obj/
+=======
+bin/
+obj/
+*.user
+*.suo
+*.cache
+node_modules/
+venv/
+__pycache__/
+*.log
+.vscode/
+.idea/
+*.db
+*.sqlite
+.DS_Store
+*.tmp
+*.pid
+*.seed
+*.pid.lock
+>>>>>>> 8a12bbf7bf93e05f3de2f73af4df1b1f57247bb1
