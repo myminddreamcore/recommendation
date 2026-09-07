@@ -1,0 +1,576 @@
+/home/uksivt/Recommendations/bin/Debug/net10.0/appsettings.Development.json
+/home/uksivt/Recommendations/bin/Debug/net10.0/appsettings.json
+/home/uksivt/Recommendations/bin/Debug/net10.0/Recommendations.staticwebassets.endpoints.json
+/home/uksivt/Recommendations/bin/Debug/net10.0/Recommendations
+/home/uksivt/Recommendations/bin/Debug/net10.0/Recommendations.deps.json
+/home/uksivt/Recommendations/bin/Debug/net10.0/Recommendations.runtimeconfig.json
+/home/uksivt/Recommendations/bin/Debug/net10.0/Recommendations.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Recommendations.pdb
+/home/uksivt/Recommendations/bin/Debug/net10.0/FirebirdSql.Data.FirebirdClient.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/FirebirdSql.EntityFrameworkCore.Firebird.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Humanizer.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.Build.Locator.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/System.CodeDom.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommendations.csproj.AssemblyReference.cache
+/home/uksivt/Recommendations/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommendations.GeneratedMSBuildEditorConfig.editorconfig
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommendations.AssemblyInfoInputs.cache
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommendations.AssemblyInfo.cs
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommendations.csproj.CoreCompileInputs.cache
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommendations.MvcApplicationPartsAssemblyInfo.cs
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommendations.MvcApplicationPartsAssemblyInfo.cache
+/home/uksivt/Recommendations/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/uksivt/Recommendations/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/uksivt/Recommendations/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/uksivt/Recommendations/obj/Debug/net10.0/scopedcss/bundle/Recommendations.styles.css
+/home/uksivt/Recommendations/obj/Debug/net10.0/staticwebassets.build.json
+/home/uksivt/Recommendations/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/uksivt/Recommendations/obj/Debug/net10.0/staticwebassets.development.json
+/home/uksivt/Recommendations/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/uksivt/Recommendations/obj/Debug/net10.0/swae.build.ex.cache
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommen.89B5E994.Up2Date
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommendations.dll
+/home/uksivt/Recommendations/obj/Debug/net10.0/refint/Recommendations.dll
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommendations.pdb
+/home/uksivt/Recommendations/obj/Debug/net10.0/Recommendations.genruntimeconfig.cache
+/home/uksivt/Recommendations/obj/Debug/net10.0/ref/Recommendations.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/auth.json
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/home/uksivt/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/appsettings.Development.json
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/appsettings.json
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations.staticwebassets.endpoints.json
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/auth.json
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations.deps.json
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations.runtimeconfig.json
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations.pdb
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/FirebirdSql.Data.FirebirdClient.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/FirebirdSql.EntityFrameworkCore.Firebird.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Humanizer.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.Build.Locator.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/System.CodeDom.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.AssemblyInfo.cs
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.MvcApplicationPartsAssemblyInfo.cs
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.MvcApplicationPartsAssemblyInfo.cache
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/scopedcss/bundle/Recommendations.styles.css
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/staticwebassets.build.json
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/staticwebassets.development.json
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/swae.build.ex.cache
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommen.89B5E994.Up2Date
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.dll
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/refint/Recommendations.dll
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.pdb
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.genruntimeconfig.cache
+/home/user/Рабочий стол/Recommendations/obj/Debug/net10.0/ref/Recommendations.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ClosedXML.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ClosedXML.Parser.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/DocumentFormat.OpenXml.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/DocumentFormat.OpenXml.Framework.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/ExcelNumberFormat.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/RBush.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/SixLabors.Fonts.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/System.IO.Packaging.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/BouncyCastle.Cryptography.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/iTextSharp.LGPLv2.Core.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/SkiaSharp.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/user/Рабочий стол/Recommendations/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/appsettings.Development.json
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/appsettings.json
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/auth.json
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations.staticwebassets.endpoints.json
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations.deps.json
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations.runtimeconfig.json
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Recommendations.pdb
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/BouncyCastle.Cryptography.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ClosedXML.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ClosedXML.Parser.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/DocumentFormat.OpenXml.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/DocumentFormat.OpenXml.Framework.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ExcelNumberFormat.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/FirebirdSql.Data.FirebirdClient.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/FirebirdSql.EntityFrameworkCore.Firebird.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Humanizer.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/iTextSharp.LGPLv2.Core.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.Build.Locator.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/RBush.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/SixLabors.Fonts.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/SkiaSharp.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/System.CodeDom.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/System.IO.Packaging.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/Recommendations/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.csproj.AssemblyReference.cache
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.GeneratedMSBuildEditorConfig.editorconfig
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.AssemblyInfoInputs.cache
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.AssemblyInfo.cs
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.csproj.CoreCompileInputs.cache
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.MvcApplicationPartsAssemblyInfo.cs
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.MvcApplicationPartsAssemblyInfo.cache
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/scopedcss/bundle/Recommendations.styles.css
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/staticwebassets.build.json
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/staticwebassets.development.json
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/swae.build.ex.cache
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommen.89B5E994.Up2Date
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.dll
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/refint/Recommendations.dll
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.pdb
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/Recommendations.genruntimeconfig.cache
+/home/uksivt/Рабочий стол/Recommendations/obj/Debug/net10.0/ref/Recommendations.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/appsettings.Development.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/appsettings.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Recommendations.staticwebassets.endpoints.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Recommendations
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Recommendations.deps.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Recommendations.runtimeconfig.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Recommendations.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Recommendations.pdb
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/BouncyCastle.Cryptography.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ClosedXML.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ClosedXML.Parser.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/DocumentFormat.OpenXml.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/DocumentFormat.OpenXml.Framework.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ExcelNumberFormat.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/FirebirdSql.Data.FirebirdClient.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/FirebirdSql.EntityFrameworkCore.Firebird.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Humanizer.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/iTextSharp.LGPLv2.Core.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.Build.Locator.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/RBush.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/SixLabors.Fonts.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/SkiaSharp.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/System.CodeDom.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/System.IO.Packaging.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommendations.csproj.AssemblyReference.cache
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommendations.GeneratedMSBuildEditorConfig.editorconfig
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommendations.AssemblyInfoInputs.cache
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommendations.AssemblyInfo.cs
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommendations.csproj.CoreCompileInputs.cache
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommendations.MvcApplicationPartsAssemblyInfo.cs
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommendations.MvcApplicationPartsAssemblyInfo.cache
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/scopedcss/bundle/Recommendations.styles.css
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/staticwebassets.build.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/staticwebassets.development.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/swae.build.ex.cache
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommen.89B5E994.Up2Date
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommendations.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/refint/Recommendations.dll
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommendations.pdb
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/Recommendations.genruntimeconfig.cache
+/home/uksivt/Рабочий стол/задания итог/Recommendations/obj/Debug/net10.0/ref/Recommendations.dll
