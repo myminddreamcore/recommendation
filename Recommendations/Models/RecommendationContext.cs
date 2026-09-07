@@ -41,7 +41,8 @@ public partial class RecommendationContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseFirebird("User=sysdba;password=070507;database=localhost/3050:/databases/Recomendations.fdb;dialect=3;charset=UTF8;");
+        => optionsBuilder.UseFirebird(Environment.GetEnvironmentVariable("ConnectionStrings__DefaultConnection"));
+// => optionsBuilder.UseFirebird("User=sysdba;password=070507;database=localhost/3050:/databases/Recomendations.fdb;dialect=3;charset=UTF8;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
