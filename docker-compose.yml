@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15
+    container_name: recommendation-db
+    restart: always
+    environment:
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_DB: recommendations
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./script_recommendations.sql:/docker-entrypoint-initdb.d/01-init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U myuser -d recommendations"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  api:
+    build:
+      context: ./Recommendations
+      dockerfile: Dockerfile.api
+    container_name: recommendation-api
+    restart: always
+    ports:
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:5000
+      - ConnectionStrings__DefaultConnection=Host=db;Database=recommendations;Username=myuser;Password=mypassword
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./Recommendations/appsettings.json:/app/appsettings.json
+
+  vue-dev:
+    build:
+      context: ./recommendations
+      dockerfile: Dockerfile.vue.dev
+    container_name: recommendation-vue-dev
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./recommendations/src:/app/src
+      - ./recommendations/public:/app/public
+      - ./recommendations/index.html:/app/index.html
+      - ./recommendations/vite.config.js:/app/vite.config.js
+    environment:
+      - VITE_API_URL=http://localhost:5000
+    depends_on:
+      - api
+
+volumes:
+  postgres_data:
