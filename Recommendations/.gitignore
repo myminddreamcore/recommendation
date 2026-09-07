@@ -1,0 +1,62 @@
+HEAD
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
+
+.eslintcache
+
+# Cypress
+/cypress/videos/
+/cypress/screenshots/
+
+# Vitest
+__screenshots__/
+
+# Vite
+*.timestamp-*-*.mjs
+bin/
+obj/
+=======
+bin/
+obj/
+*.user
+*.suo
+*.cache
+node_modules/
+venv/
+__pycache__/
+*.log
+.vscode/
+.idea/
+*.db
+*.sqlite
+.DS_Store
+*.tmp
+*.pid
+*.seed
+*.pid.lock
+>>>>>>> 8a12bbf7bf93e05f3de2f73af4df1b1f57247bb1
